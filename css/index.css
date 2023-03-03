@@ -1,0 +1,13 @@
+.Contenido {
+    display: flex;
+    flex-direction: row;
+}
+.Compras {
+    width: 60%;
+    height: 100%;
+}
+.Productos {
+    width: 40%;
+    height: 100%;
+    margin-left: 50px;
+} 
